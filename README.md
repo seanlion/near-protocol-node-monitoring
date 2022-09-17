@@ -37,13 +37,8 @@ export POOL_ID={YourPoolId} && sed -i "s/klesh.factory.shardnet.near/$POOL_ID/g"
 ### Open Grafana
 - Grafana will be available on `http://{Host.IP}:19000`
 
-### Setup alerts channel
-- Got to Alerting > Notification channels > Add channel > Add desired channel (Check `Default` in Notification settings)
-
 #### Extra metrics data
 - You can get extra metrics such as Seat Price, Current Stake and more by using near-prometheus-exporter.
 - https://github.com/masknetgoal634/near-prometheus-exporter
 
-# Stake Wars: Episode III. Challenge 004
-https://github.com/near/stakewars-iii/blob/main/challenges/004.md
 

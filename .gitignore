@@ -1,3 +1,5 @@
 .env
 .DS_Store
 grafana/grafana.db
+grafana/png/
+grafana/csv/
